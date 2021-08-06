@@ -1,4 +1,4 @@
-# The answers for Assignment-1 are as follows:\
+# The answers for Assignment-1 are as follows:
 
 ## Ans.(Que.1) = **O(n)**
 ## Ans.(Que.2) = **321123**
